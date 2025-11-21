@@ -12,6 +12,7 @@ Every day, I explore new Java concepts — from **advanced core features** to **
 | 1 | **Spring Learning** | Dependency Injection and IoC Container |
 | 2 | **Spring Beans** | Bean Lifecycle, Scopes, and Configuration |
 | 3 | **Autowiring in Spring** | Field, Constructor, and Setter Injection |
+| 4 | **Data JPA** | ORM(Object Realitonal Mapping) 
 
 
 
