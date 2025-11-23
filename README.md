@@ -45,7 +45,10 @@ If we want  to make dependency injection optional then we go for setter injectio
 3)Construtor Injection
 if we weant to make dependeny injection mandatory then go with this 
 
-
+difference between primary and qualifier
+@primary->Tell The spring use this spring by default when multiple bean's of same type is exists
+@Qualifier->tell the spring exactly which bean to be executed when they are multiple choices
+Note if: if both are present the Qualifier is executed
 
 
 
